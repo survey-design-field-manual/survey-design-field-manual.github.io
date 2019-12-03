@@ -3,6 +3,10 @@
   url: https://survey-design-field-manual.github.io
   excerpt: "Authors, citation and give feedback"
   image: /5x8/Home-blue_5x8.jpg
+- title: "Download field manual"
+  url: https://survey-design-field-manual.github.io/files/Chapter%202_Survey%20Design%20Field%20Manual.pdf
+  excerpt: ""
+  image: /5x8/download_5x8.jpg
 - title: "Introduction"
   url: https://survey-design-field-manual.github.io/introduction
   excerpt: "Scope for the survey design field manual"
@@ -55,7 +59,3 @@
   url: https://www.nespmarine.edu.au/field-manuals
   excerpt: "Back to all field manuals"
   image: /5x8/NESP_5x8.jpg
-- title: "Download field manual"
-  url: https://survey-design-field-manual.github.io/files/Chapter%202_Survey%20Design%20Field%20Manual.pdf
-  excerpt: ""
-  image: /5x8/download_5x8.jpg
