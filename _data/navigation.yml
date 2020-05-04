@@ -7,6 +7,10 @@
   url: https://survey-design-field-manual.github.io/files/Chapter%202_Survey%20Design%20Field%20Manual.pdf
   excerpt: "Download chapter as a PDF"
   image: /teasers/download_teaser.jpg
+- title: "Introduction"
+  url: https://survey-design-field-manual.github.io/introduction
+  excerpt: ""
+  image: /teasers/01_teaser.jpg
 - title: "Scope"
   url: https://survey-design-field-manual.github.io/scope
   excerpt: "Scope for the survey design field manual"
