@@ -4,7 +4,7 @@ permalink: /field-manual-maintenance
 title: "Field Manual Maintenance"
 excerpt: ""
 image:
-  feature: /banners/09_banner.jpg
+  feature: /banners/scope_banner.jpg
 ---
 
 In accordance with the universal field manual maintenance protocol described in Chapter 1 of the Field Manual package, this manual was updated in 2020 as Version 2. Updates reflect user feedback and new developments. There is currently no long-term plan or support for future updates. See Chapter 1 (Introduction to field manual package) for further details. 

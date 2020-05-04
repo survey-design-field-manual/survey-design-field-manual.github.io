@@ -4,7 +4,7 @@ permalink: /set-up-r-to-generate-design
 title: "Set Up R to Generate Design"
 excerpt: ""
 image:
-  feature: /banners/11_banner.jpg
+  feature: /banners/scope_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 

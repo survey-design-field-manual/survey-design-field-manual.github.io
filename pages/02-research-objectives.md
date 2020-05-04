@@ -3,15 +3,14 @@ permalink: /research-objectives
 title: "Reasearch Objective(s)"
 excerpt: ""
 image:
-  feature: /banners/02_banner.jpg
+  feature: /banners/scope_banner.jpg
 layout: home
 
 ---
+
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
 The first, and most important factor in developing an appropriate statistical design, is knowing the objective(s) you’re asking (your scientific hypotheses) and hence the type of question(s) you are seeking answers to. The objectives will have direct, and sometimes obvious, implications for design. As an example, if the objective is to estimate the effect of implementing a management zone (e.g. a no-take reserve) - a casual type of research question - then at a minimum samples will have to be taken from outside the reserve (a control) as well as within it. We think it useful to consider the following list of probing questions before starting the design process. 
-
-
 
 1. What is the primary research question?  Is a comparison between areas of interest required (e.g. impacted/not-impacted)?
 2. What is the appropriate metric to measure (and to subsequently analyse)? Often measurements will be taken on species (e.g. biomass, size, presence-absence, and/or abundance), but analysed as a different quantity (e.g. a diversity index). 

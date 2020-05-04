@@ -3,7 +3,7 @@ permalink: /random-sampling
 title: "Random sampling"
 excerpt: ""
 image:
-  feature: /banners/03_banner.jpg
+  feature: /banners/scope_banner.jpg
 layout: home
 
 ---

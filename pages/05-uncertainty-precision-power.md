@@ -4,7 +4,7 @@ permalink: /uncertainty-precision-power
 title: "Uncertainty, Precision, and Power"
 excerpt: ""
 image:
-  feature: /banners/05_banner.jpg
+  feature: /banners/scope_banner.jpg
 ---
 {% include toc.html class="toc-left" h_min=2 h_max=2 %}
 
