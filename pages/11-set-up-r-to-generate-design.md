@@ -58,13 +58,7 @@ image.plot( uniqueEast, uniqueNorth, DepthMat,
     col=rev(tim.colors()))
 ```
 
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Chapter-2-Survey2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Chapter-2-Survey2.png "image_tooltip")
+![alt_text](images/figures/image_0.png)
 
 
 Figure 2.1: Map of Governor Island study region with depths. Note the non-regular shape and the non-uniformity of the regions depth profile.
@@ -96,12 +90,7 @@ write.csv(samp_spatialOnly, file="spatialOnly.csv", row.names=FALSE)
 ```
 
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Chapter-2-Survey3.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Chapter-2-Survey3.png "image_tooltip")
+![alt_text](images/figures/figure_1.png)
 
 
 Figure 2.2: A uniform inclusion probability sample for Governor Island
@@ -111,6 +100,7 @@ Figure 2.2: A uniform inclusion probability sample for Governor Island
 
 The equal inclusion probability design (Figure 2.2) assumes that all sites are equally advantageous to sample. Previously, we mentioned that this may not be an efficient approach to sampling. In particular, it can be advantageous to over-sample sites/regions that have greater variability. In the Governor Island reserve, this corresponds to the shallower depths as these typically are more heterogeneous and biodiverse on the east coast of Tasmania. We can design a survey with this in mind by increasing the probability that shallow sites will be sampled (i.e. by increasing their inclusion probabilities). This has the obvious effect of also decreasing the probability that deeper sites will be sampled (Figure 2.3). The code below shows how this can be done. It is a little more involved, but most of the complexity comes from detail. The approach is simple though: 1) find the empirical distribution of depths in the reserve; 2) define the inclusion probabilities based on this empirical distribution; and 3) sample according to those inclusion probabilities. We will sample a few more sites (n = 100), just to make the effect of the depth adjustment clear.
 
+```
 ########################################################################### \
 ####    Spatially balanced design -- Depth biased inclusion probs     #### \
 ####    Foster et al. NESP Biodiversity Hub Field Manuals              #### \
@@ -152,19 +142,13 @@ _#Plot the design_ \
     ylim=NLims, xlim=ELims,
 
 
-```
     col=rev(tim.colors())))
 points( samp[,c("Easting","Northing")], pch=20, cex=2)
 write.csv( design, file="design.csv", row.names=FALSE)
 ```
 
 
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Chapter-2-Survey4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Chapter-2-Survey4.png "image_tooltip")
+![alt_text](images/figures/figure_2.png "image_tooltip")
 
 
 Figure 2.3: (Left panel) The empirical distribution of the 4 different depth bins. (Middle panel) The spatial distribution of the depth bins. (Right panel) A non-uniform spatially balanced sample, with inclusion probabilities based on the distribution of depths throughout the region. Shallow sites have been over-represented in the sample.
@@ -235,12 +219,7 @@ legend( "bottomleft", c("Legacy Sites", "New Sites"), pch=c(17,20), pt.cex=2,
 ```
 
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Chapter-2-Survey5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Chapter-2-Survey5.png "image_tooltip")
+![alt_text](images/figures/figure_3.png)
 
 
 Figure 2.4: A spatially balanced design for Governor Island that incorporates legacy sites and has depth-varying inclusion probabilities (shallow sites are over-represented).
