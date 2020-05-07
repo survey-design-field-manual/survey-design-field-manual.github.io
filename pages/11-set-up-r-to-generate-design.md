@@ -90,7 +90,7 @@ write.csv(samp_spatialOnly, file="spatialOnly.csv", row.names=FALSE)
 ```
 
 
-![alt_text](images/figures/figure_1.png)
+![alt_text](images/figures/image_1.png)
 
 
 Figure 2.2: A uniform inclusion probability sample for Governor Island
@@ -148,7 +148,7 @@ write.csv( design, file="design.csv", row.names=FALSE)
 ```
 
 
-![alt_text](images/figures/figure_2.png "image_tooltip")
+![alt_text](images/figures/image_2.png)
 
 
 Figure 2.3: (Left panel) The empirical distribution of the 4 different depth bins. (Middle panel) The spatial distribution of the depth bins. (Right panel) A non-uniform spatially balanced sample, with inclusion probabilities based on the distribution of depths throughout the region. Shallow sites have been over-represented in the sample.
@@ -219,7 +219,7 @@ legend( "bottomleft", c("Legacy Sites", "New Sites"), pch=c(17,20), pt.cex=2,
 ```
 
 
-![alt_text](images/figures/figure_3.png)
+![alt_text](images/figures/image_3.png)
 
 
 Figure 2.4: A spatially balanced design for Governor Island that incorporates legacy sites and has depth-varying inclusion probabilities (shallow sites are over-represented).
