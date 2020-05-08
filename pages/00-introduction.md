@@ -88,7 +88,7 @@ Table 2.1 Different types of research questions (adapted from Leek and Peng, 201
 </table>
 
 
-There is no way to tell if the _sample’s_ associations are the same as the _population’s_ 
+<sup>1</sup>There is no way to tell if the _sample’s_ associations are the same as the _population’s_ 
 
 *Expert judgement will likely be influenced by a variety of well known heuristics biases. Attempts should be made to control for these during any elicitation exercise.
 
