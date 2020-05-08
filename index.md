@@ -37,4 +37,6 @@ Foster SD, Monk J, Lawrence E, Hayes KR, Hosack GR, Przeslawski R. 2018. Statist
 |       _[Incorporate legacy sites](https://survey-design-field-manual.github.io/set-up-r-to-generate-design#incorporate-legacy-sites)_                       |
 |       _[Case study summary](https://survey-design-field-manual.github.io/set-up-r-to-generate-designs#case-study-summary)_                       |
 |  **[References](https://survey-design-field-manual.github.io/references)**                                        |                                            
+
+
 <a href="#" class="scrollUpButton">Top</a>
