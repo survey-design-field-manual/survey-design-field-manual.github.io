@@ -49,8 +49,6 @@ Table 2.1 Different types of research questions (adapted from Leek and Peng, 201
    </td>
    <td rowspan="3" >
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline drawings not supported directly from Docs. You may want to copy the inline drawing to a standalone drawing and export by reference. See <a href="https://github.com/evbacher/gd2md-html/wiki/Google-Drawings-by-reference">Google Drawings by reference</a> for details. The img URL below is a placeholder. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="https://docs.google.com/drawings/d/12345/export/png" width="80%" alt="drawing">
 
@@ -83,8 +81,8 @@ Table 2.1 Different types of research questions (adapted from Leek and Peng, 201
    </td>
    <td>Expert judgement*, all forms of randomised controlled trials and observational studies with a representative sample so long as the effects of potentially confounding variables can be controlled.
    </td>
-   <td> \
-Complex
+   <td>
+   Complex
    </td>
   </tr>
 </table>
