@@ -101,44 +101,44 @@ Figure 2.2: A uniform inclusion probability sample for Governor Island
 The equal inclusion probability design (Figure 2.2) assumes that all sites are equally advantageous to sample. Previously, we mentioned that this may not be an efficient approach to sampling. In particular, it can be advantageous to over-sample sites/regions that have greater variability. In the Governor Island reserve, this corresponds to the shallower depths as these typically are more heterogeneous and biodiverse on the east coast of Tasmania. We can design a survey with this in mind by increasing the probability that shallow sites will be sampled (i.e. by increasing their inclusion probabilities). This has the obvious effect of also decreasing the probability that deeper sites will be sampled (Figure 2.3). The code below shows how this can be done. It is a little more involved, but most of the complexity comes from detail. The approach is simple though: 1) find the empirical distribution of depths in the reserve; 2) define the inclusion probabilities based on this empirical distribution; and 3) sample according to those inclusion probabilities. We will sample a few more sites (n = 100), just to make the effect of the depth adjustment clear.
 
 ```
-########################################################################### \
-####    Spatially balanced design -- Depth biased inclusion probs     #### \
-####    Foster et al. NESP Biodiversity Hub Field Manuals              #### \
-########################################################################### \
- \
-**par**( mfrow=**c**(1,3), mar=**rep**( 4, 4)) \
-n &lt;- 100 \
-_#The number of 'depth bins' to spread sampling effort over._ \
-nbins &lt;- 4 \
-_#force the breaks so R doesn't use 'pretty'_ \
-breaks &lt;- **seq**( from=**min**( bth.orig.grid$Depth, na.rm=TRUE),  \
-    to=**max**( bth.orig.grid$Depth, na.rm=TRUE), length=nbins+1) \
-_#Find sensible depth bins using pre-packaged code_ \
-tmpHist &lt;- **hist**( bth.orig.grid$Depth, breaks=breaks, plot=FALSE) \
-_#Find the inclusion probability for each 'stratum'_ \
-tmpHist$inclProbs &lt;- (n/(nbins)) / tmpHist$counts \
-_#Matching up locations to probabilties_ \
-tmpHist$ID &lt;- **findInterval**( bth.orig.grid$Depth, tmpHist$breaks)  \
-_#A container for the design_ \
-design &lt;- **data.frame**( siteID=1:**nrow**( bth.orig.grid),  \
-    Easting=bth.orig.grid$Easting, Northing=bth.orig.grid$Northing,  \
-    Depth=bth.orig.grid$Depth, inclProb=tmpHist$inclProbs[tmpHist$ID])  \
-_#Plot the depths and the inclusion probabilties_ \
-**with**( design, **plot**( Depth, inclProb, main="Inclusion Probabilities",  \
-    ylab="Inclusion Probabilities", xlab="Depth (m)", pch=20, cex=1.4)) \
-_#Plot the inclusion probabilities in space_ \
-**with**( design,  \
-    **image.plot**( uniqueEast, uniqueNorth,  \
-        **matrix**( inclProb, nrow=**length**( uniqueEast), byrow=FALSE),  \
-        xlab="", ylab="", main="Inclusion Probability", asp=1,  \
-        ylim=NLims, xlim=ELims)) \
-_#Take the Sample using the inclusion probabilities_ \
-samp &lt;- **quasiSamp**( n=n, dimension=2,  \
-    potential.sites = design[,**c**("Easting","Northing")],  \
-    inclusion.probs=design$inclProb, nSampsToConsider=100*n) \
-_#Plot the design_ \
-**with**( design, **image.plot**( uniqueEast, uniqueNorth, DepthMat,  \
-    xlab="", ylab="", main="Spatially-Balanced Sample", asp=1, \
+########################################################################### 
+####    Spatially balanced design -- Depth biased inclusion probs     #### 
+####    Foster et al. NESP Biodiversity Hub Field Manuals              #### 
+########################################################################### 
+ 
+**par**( mfrow=**c**(1,3), mar=**rep**( 4, 4)) 
+n &lt;- 100 
+#The number of 'depth bins' to spread sampling effort over. 
+nbins &lt;- 4 
+#force the breaks so R doesn't use 'pretty' 
+breaks &lt;- **seq**( from=**min**( bth.orig.grid$Depth, na.rm=TRUE),  
+    to=**max**( bth.orig.grid$Depth, na.rm=TRUE), length=nbins+1) 
+#Find sensible depth bins using pre-packaged code 
+tmpHist &lt;- **hist**( bth.orig.grid$Depth, breaks=breaks, plot=FALSE) 
+#Find the inclusion probability for each 'stratum' 
+tmpHist$inclProbs &lt;- (n/(nbins)) / tmpHist$counts 
+#Matching up locations to probabilties 
+tmpHist$ID &lt;- **findInterval**( bth.orig.grid$Depth, tmpHist$breaks)  
+#A container for the design 
+design &lt;- **data.frame**( siteID=1:**nrow**( bth.orig.grid),  
+    Easting=bth.orig.grid$Easting, Northing=bth.orig.grid$Northing,  
+    Depth=bth.orig.grid$Depth, inclProb=tmpHist$inclProbs[tmpHist$ID])  
+#Plot the depths and the inclusion probabilties 
+**with**( design, **plot**( Depth, inclProb, main="Inclusion Probabilities",  
+    ylab="Inclusion Probabilities", xlab="Depth (m)", pch=20, cex=1.4)) 
+#Plot the inclusion probabilities in space 
+**with**( design,  
+    **image.plot**( uniqueEast, uniqueNorth,  
+        **matrix**( inclProb, nrow=**length**( uniqueEast), byrow=FALSE),  
+        xlab="", ylab="", main="Inclusion Probability", asp=1,  
+        ylim=NLims, xlim=ELims)) 
+#Take the Sample using the inclusion probabilities 
+samp &lt;- **quasiSamp**( n=n, dimension=2,  
+    potential.sites = design[,**c**("Easting","Northing")],  
+    inclusion.probs=design$inclProb, nSampsToConsider=100*n) 
+#Plot the design 
+**with**( design, **image.plot**( uniqueEast, uniqueNorth, DepthMat,  
+    xlab="", ylab="", main="Spatially-Balanced Sample", asp=1, 
     ylim=NLims, xlim=ELims,
 
 
