@@ -50,7 +50,7 @@ Table 2.1 Different types of research questions (adapted from Leek and Peng, 201
    <td rowspan="3" >
 
 
-<img src="https://docs.google.com/drawings/d/12345/export/png" width="80%" alt="drawing">
+<img src="images/arrow.png" width="80%" alt="drawing">
 
    </td>
   </tr>
