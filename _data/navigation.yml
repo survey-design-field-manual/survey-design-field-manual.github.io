@@ -1,9 +1,9 @@
 # Site navigation links
-- title: "Survey Design field manual home"
+- title: "Survey Design Field Manual Home"
   url: https://survey-design-field-manual.github.io
   excerpt: "Authors, citation and give feedback"
   image: /teasers/home_teaser.jpg
-- title: "Download field manual"
+- title: "Download Field Manual"
   url: https://survey-design-field-manual.github.io/files/Chapter%202_Survey%20Design%20Field%20Manual.pdf
   excerpt: "Download chapter as a PDF"
   image: /teasers/download_teaser.jpg
@@ -19,7 +19,7 @@
   url: https://survey-design-field-manual.github.io/research-objectives
   excerpt: "Setting your research objectives"
   image: /teasers/02_teaser.jpg
-- title: "Random sampling"
+- title: "Random Sampling"
   url: https://survey-design-field-manual.github.io/random-sampling
   excerpt: "Making sure your research questions are answerable"
   image: /teasers/03_teaser.jpg
@@ -51,7 +51,7 @@
   url: https://survey-design-field-manual.github.io/case-study
   excerpt: ""
   image: /teasers/10_teaser.jpg
-- title: "Set Up R to Generate Design"
+- title: "Set up R to Generate Design"
   url: https://survey-design-field-manual.github.io/set-up-r-to-generate-design
   excerpt: ""
   image: /teasers/11_teaser.jpg
