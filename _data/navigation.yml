@@ -1,8 +1,4 @@
 # Site navigation links
-- title: "Survey Design Field Manual Home"
-  url: https://survey-design-field-manual.github.io
-  excerpt: "Authors, citation and give feedback"
-  image: /teasers/home_teaser.jpg
 - title: "Download Field Manual"
   url: https://survey-design-field-manual.github.io/files/Chapter%202_Survey%20Design%20Field%20Manual.pdf
   excerpt: "Download chapter as a PDF"
@@ -59,7 +55,3 @@
   url: https://survey-design-field-manual.github.io/references
   excerpt: "Literature cited"
   image: /teasers/references_teaser.jpg
-- title: "Field Manual Homepage"
-  url: https://www.nespmarine.edu.au/field-manuals
-  excerpt: "Back to all field manuals"
-  image: /teasers/NESP_teaser.jpg
