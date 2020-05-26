@@ -42,6 +42,8 @@ Brus, D., L. Spätjens, and J. de Gruijter. 1999. A sampling scheme for estimati
 
 
   Dobbie, M., B. Henderson, and D. Stevens, Jr. 2008. Sparse sampling: Spatial design for monitoring stream networks. Statist. Surv. 2:113–153. 
+  
+  Dobson, A.; Milner-Gulland, E.; Aebischer, N. J.; Beale, C. M.; Brozovic, R.; Coals, P.; Critchlow, R.; Dancer, A.; Greve, M.; Hinsley, A.; Ibbett, H.; Johnston, A.; Kuiper, T.; Le Comber, S.; Mahood, S. P.; Moore, J. F.; Nilsen, E. B.; Pocock, M. J.; Quinn, A.; Travers, H.; Wilfred, P.; Wright, J. & Keane, A. 2020 Making Messy Data Work for Conservation. One Earth, 2:455-465
 
 
   Fisher, R. 1925. Statistical methods for research workers. Edinburgh Oliver & Boyd.
