@@ -2,7 +2,7 @@
 layout: home
 permalink: /introduction
 title: "Introduction"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg
 toc: true

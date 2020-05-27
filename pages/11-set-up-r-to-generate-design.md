@@ -2,7 +2,7 @@
 layout: home
 permalink: /set-up-r-to-generate-design
 title: "Set Up R to Generate Design"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg
 ---

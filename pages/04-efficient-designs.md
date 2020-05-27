@@ -2,7 +2,7 @@
 layout: home
 permalink: /efficient-designs
 title: "Efficient Designs"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg
 ---

@@ -2,7 +2,7 @@
 layout: home
 permalink: /mapping-as-a-foundation
 title: "Mapping as a Foundation"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg
 ---

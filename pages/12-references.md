@@ -2,7 +2,7 @@
 layout: home
 permalink: /references
 title: "References"
-excerpt: ""
+excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg
 ---
