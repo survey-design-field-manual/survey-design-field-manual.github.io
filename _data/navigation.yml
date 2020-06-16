@@ -30,7 +30,7 @@
 - title: "Spatio-Temporal Sampling"
   url: https://survey-design-field-manual.github.io/spatio-temporal-sampling
   excerpt: "Sampling in space and time"
-  image: /teasers/07_teaser.jpg
+  image: /teasers/11_teaser.jpg
 - title: "Gear-Specific Considerations"
   url: https://survey-design-field-manual.github.io/gear-specific-considerations
   excerpt: "What to consider when choosing your sampling method"
@@ -38,15 +38,15 @@
 - title: "Mapping as a Foundation"
   url: https://survey-design-field-manual.github.io/mapping-as-a-foundation
   excerpt: "Seafloor data from multibeam sonar"
-  image: /teasers/09_teaser.jpg
+  image: /teasers/10_teaser.jpg
 - title: "Case Study: Surveying a Marine Park in Tasmania"
   url: https://survey-design-field-manual.github.io/case-study
   excerpt: ""
-  image: /teasers/10_teaser.jpg
+  image: /teasers/09_teaser.jpg
 - title: "Set up R to Generate Design"
   url: https://survey-design-field-manual.github.io/set-up-r-to-generate-design
   excerpt: ""
-  image: /teasers/11_teaser.jpg
+  image: /teasers/07_teaser.jpg
 - title: "Field Manual Maintenance"
   url: https://survey-design-field-manual.github.io/field-manual-maintenance
   excerpt: "Updates and developments"
