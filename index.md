@@ -29,13 +29,13 @@ Foster SD, Monk J, Lawrence E, Hayes KR, Hosack GR, T. Langlois, Hooper G & Prze
 |  **[Spatio-Temporal Sampling](https://survey-design-field-manual.github.io/spatio-temporal-sampling)**            |  
 |  **[Gear-Specific Considerations](https://survey-design-field-manual.github.io/gear-specific-considerations)**    |    
 |  **[Mapping as a Foundation](https://survey-design-field-manual.github.io/mapping-as-a-foundation)**              |                 
-|  **[Field Manual Maintenance](https://survey-design-field-manual.github.io/field-manual-maintenance)**            |     
 |  **[Case Study: Surveying a Marine Park in Tasmania](https://survey-design-field-manual.github.io/case-study)**   | 
 |  **[Set up R to Generate Design](https://survey-design-field-manual.github.io/set-up-r-to-generate-design)**      | 
 |       _[Generate a spatially balanced design](https://survey-design-field-manual.github.io/set-up-r-to-generate-design#generate-a-spatially-balanced-design)_                       |
 |       _[Preference shallow environments](https://survey-design-field-manual.github.io/set-up-r-to-generate-design#preference-shallow-environments)_                       |
 |       _[Incorporate legacy sites](https://survey-design-field-manual.github.io/set-up-r-to-generate-design#incorporate-legacy-sites)_                       |
 |       _[Case study summary](https://survey-design-field-manual.github.io/set-up-r-to-generate-design#case-study-summary)_                       |
+|  **[Field Manual Maintenance](https://survey-design-field-manual.github.io/field-manual-maintenance)**            | 
 |  **[References](https://survey-design-field-manual.github.io/references)**                                        |                                            
 
 
