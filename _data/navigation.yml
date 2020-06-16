@@ -10,35 +10,35 @@
 - title: "Scope"
   url: https://survey-design-field-manual.github.io/scope
   excerpt: "Scope for the survey design field manual"
-  image: /teasers/01_teaser.jpg
+  image: /teasers/02_teaser.jpg
 - title: "Research Objective(s)"
   url: https://survey-design-field-manual.github.io/research-objectives
   excerpt: "Setting your research objectives"
-  image: /teasers/02_teaser.jpg
+  image: /teasers/03_teaser.jpg
 - title: "Random Sampling"
   url: https://survey-design-field-manual.github.io/random-sampling
   excerpt: "Making sure your research questions are answerable"
-  image: /teasers/03_teaser.jpg
+  image: /teasers/04_teaser.jpg
 - title: "Efficient Designs"
   url: https://survey-design-field-manual.github.io/efficient-designs
   excerpt: "Spatialy balanced designs and software to help"
-  image: /teasers/04_teaser.jpg
+  image: /teasers/05_teaser.jpg
 - title: "Uncertainty, Precision, and Power"
   url: https://survey-design-field-manual.github.io/uncertainty-precision-power
   excerpt: ""
-  image: /teasers/05_teaser.jpg
+  image: /teasers/06_teaser.jpg
 - title: "Spatio-Temporal Sampling"
   url: https://survey-design-field-manual.github.io/spatio-temporal-sampling
   excerpt: "Sampling in space and time"
-  image: /teasers/06_teaser.jpg
+  image: /teasers/07_teaser.jpg
 - title: "Gear-Specific Considerations"
   url: https://survey-design-field-manual.github.io/gear-specific-considerations
   excerpt: "What to consider when choosing your sampling method"
-  image: /teasers/07_teaser.jpg
+  image: /teasers/08_teaser.jpg
 - title: "Mapping as a Foundation"
   url: https://survey-design-field-manual.github.io/mapping-as-a-foundation
   excerpt: "Seafloor data from multibeam sonar"
-  image: /teasers/08_teaser.jpg
+  image: /teasers/09_teaser.jpg
 - title: "Field Manual Maintenance"
   url: https://survey-design-field-manual.github.io/field-manual-maintenance
   excerpt: "Updates and developments"
