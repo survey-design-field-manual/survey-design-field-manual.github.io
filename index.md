@@ -5,12 +5,9 @@ title: "Statistical Considerations for Monitoring and Sampling"
 excerpt: ""
 image:
   feature: /banners/scope_banner.jpg
-page.button1.external_url:
-  url: https://www.nespmarine.edu.au/
-  caption: NESP
 ---
 
-[Scott D. Foster](mailto:scott.foster@csiro.au), Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Tim Langlois, Garnet Hooper & Rachel Przeslawski
+<div align="center"><p style="font-size:20px;">[Scott D. Foster](mailto:scott.foster@csiro.au), Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Tim Langlois, Garnet Hooper & Rachel Przeslawski</p></div>
 
 ![image alt text](images/Surveydesign.jpg)
 
