@@ -8,7 +8,7 @@ image:
 ---
 
 <div align="center"><p style="font-size:20px;">[Scott D. Foster](mailto:scott.foster@csiro.au), Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Tim Langlois, Garnet Hooper & Rachel Przeslawski</p></div>
-
+<br>
 ![image alt text](images/Surveydesign.jpg)
 
 Chapter citation:
