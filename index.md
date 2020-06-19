@@ -7,8 +7,7 @@ image:
   feature: /banners/scope_banner.jpg
 ---
 
-<div align="center"><p style="font-size:20px;">[Scott D. Foster](mailto:scott.foster@csiro.au), Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Tim Langlois, Garnet Hooper & Rachel Przeslawski</p></div>
-<br>
+<div align="center"><p style="font-size:20px;"><a href="mailto:scott.foster@csiro.au">Scott D. Foster</a>, Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Tim Langlois, Garnet Hooper & Rachel Przeslawski</p></div>
 ![image alt text](images/Surveydesign.jpg)
 <br>
 Chapter citation:<br>
