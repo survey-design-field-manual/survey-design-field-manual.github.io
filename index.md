@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: main
 permalink: /
 title: "Statistical Considerations for Monitoring and Sampling"
 excerpt: ""
