@@ -1,7 +1,7 @@
 # Site navigation links
-- title: "Download Field Manual"
+- title: "Download Chapter"
   url: https://survey-design-field-manual.github.io/files/Chapter%202_Survey%20Design%20Field%20Manual.pdf
-  excerpt: "Download chapter as a PDF"
+  excerpt: ""
   image: /teasers/download_teaser.jpg
 - title: "Introduction"
   url: https://survey-design-field-manual.github.io/introduction
@@ -9,19 +9,19 @@
   image: /teasers/01_teaser.jpg
 - title: "Scope"
   url: https://survey-design-field-manual.github.io/scope
-  excerpt: "Scope for the survey design field manual"
+  excerpt: ""
   image: /teasers/02_teaser.png
 - title: "Research Objective(s)"
   url: https://survey-design-field-manual.github.io/research-objectives
-  excerpt: "Setting your research objectives"
+  excerpt: ""
   image: /teasers/03_teaser.png
 - title: "Random Sampling"
   url: https://survey-design-field-manual.github.io/random-sampling
-  excerpt: "Making sure your research questions are answerable"
+  excerpt: ""
   image: /teasers/04_teaser.jpg
 - title: "Efficient Designs"
   url: https://survey-design-field-manual.github.io/efficient-designs
-  excerpt: "Spatialy balanced designs and software to help"
+  excerpt: ""
   image: /teasers/05_teaser.jpg
 - title: "Uncertainty, Precision, and Power"
   url: https://survey-design-field-manual.github.io/uncertainty-precision-power
@@ -29,15 +29,15 @@
   image: /teasers/06_teaser.png
 - title: "Spatio-Temporal Sampling"
   url: https://survey-design-field-manual.github.io/spatio-temporal-sampling
-  excerpt: "Sampling in space and time"
+  excerpt: ""
   image: /teasers/11_teaser.jpg
 - title: "Gear-Specific Considerations"
   url: https://survey-design-field-manual.github.io/gear-specific-considerations
-  excerpt: "What to consider when choosing your sampling method"
+  excerpt: ""
   image: /teasers/08_teaser.jpg
 - title: "Mapping as a Foundation"
   url: https://survey-design-field-manual.github.io/mapping-as-a-foundation
-  excerpt: "Seafloor data from multibeam sonar"
+  excerpt: ""
   image: /teasers/10_teaser.jpg
 - title: "Case Study: Surveying a Marine Park in Tasmania"
   url: https://survey-design-field-manual.github.io/case-study
@@ -49,9 +49,9 @@
   image: /teasers/07_teaser.jpg
 - title: "Field Manual Maintenance"
   url: https://survey-design-field-manual.github.io/field-manual-maintenance
-  excerpt: "Updates and developments"
+  excerpt: ""
   image: /teasers/field-manual-maintenance_teaser.jpg
 - title: "References"
   url: https://survey-design-field-manual.github.io/references
-  excerpt: "Literature cited"
+  excerpt: ""
   image: /teasers/references_teaser.jpg
