@@ -10,8 +10,8 @@ image:
 <div align="center"><p style="font-size:20px;">[Scott D. Foster](mailto:scott.foster@csiro.au), Jacquomo Monk, Emma Lawrence, Keith R. Hayes, Geoffrey R. Hosack, Tim Langlois, Garnet Hooper & Rachel Przeslawski</p></div>
 <br>
 ![image alt text](images/Surveydesign.jpg)
-
-Chapter citation:
+<br>
+Chapter citation:<br>
 Foster SD, Monk J, Lawrence E, Hayes KR, Hosack GR, T. Langlois, Hooper G & Przeslawski R. 2020. Statistical considerations for monitoring and sampling. In Field Manuals for Marine Sampling to Monitor Australian Waters,Version 2. Przeslawski R, Foster S (Eds). National Environmental Science Program (NESP).
 
 | Chapter Contents                                                                                                  |
