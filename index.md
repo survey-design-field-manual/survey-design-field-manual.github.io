@@ -23,8 +23,8 @@ Foster SD, Monk J, Lawrence E, Hayes KR, Hosack GR, T. Langlois, Hooper G & Prze
 |  **[Efficient Designs](https://survey-design-field-manual.github.io/efficient-designs)**                          |
 |       _[Software](https://survey-design-field-manual.github.io/efficient-designs#software)_                       |
 |  **[Uncertainty, Precision and Power](https://survey-design-field-manual.github.io/uncertainty-precision-power)** |   
-|  **[Spatio-Temporal Sampling](https://survey-design-field-manual.github.io/spatio-temporal-sampling)**            |  
-|  **[Gear-Specific Considerations](https://survey-design-field-manual.github.io/gear-specific-considerations)**    |    
+|  **[Spatio-temporal Sampling](https://survey-design-field-manual.github.io/spatio-temporal-sampling)**            |  
+|  **[Gear-specific Considerations](https://survey-design-field-manual.github.io/gear-specific-considerations)**    |    
 |  **[Mapping as a Foundation](https://survey-design-field-manual.github.io/mapping-as-a-foundation)**              |                 
 |  **[Case Study: Surveying a Marine Park in Tasmania](https://survey-design-field-manual.github.io/case-study)**   | 
 |  **[Set up R to Generate Design](https://survey-design-field-manual.github.io/set-up-r-to-generate-design)**      | 
