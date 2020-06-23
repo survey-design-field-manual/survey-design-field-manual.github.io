@@ -60,7 +60,7 @@ image.plot( uniqueEast, uniqueNorth, DepthMat,
 
 <img src="images/figures/image_0.png" width="70%">
 
-Figure 2.1: Map of Governor Island study region with depths. Note the non-regular shape and the non-uniformity of the regions depth profile.
+**Figure 2.1:** Map of Governor Island study region with depths. Note the non-regular shape and the non-uniformity of the regions depth profile.
 
 
 ## Generate a spatially balanced design
@@ -90,7 +90,7 @@ write.csv(samp_spatialOnly, file="spatialOnly.csv", row.names=FALSE)
 
 <img src="images/figures/image_1.png" width="70%">
 
-Figure 2.2: A uniform inclusion probability sample for Governor Island
+**Figure 2.2:** A uniform inclusion probability sample for Governor Island
 
 
 ## Preference shallow environments
@@ -146,7 +146,7 @@ write.csv( design, file="design.csv", row.names=FALSE)
 
 <img src="images/figures/image_2.png" width="70%">
 
-Figure 2.3: (Left panel) The empirical distribution of the 4 different depth bins. (Middle panel) The spatial distribution of the depth bins. (Right panel) A non-uniform spatially balanced sample, with inclusion probabilities based on the distribution of depths throughout the region. Shallow sites have been over-represented in the sample.
+**Figure 2.3:** (Left panel) The empirical distribution of the 4 different depth bins. (Middle panel) The spatial distribution of the depth bins. (Right panel) A non-uniform spatially balanced sample, with inclusion probabilities based on the distribution of depths throughout the region. Shallow sites have been over-represented in the sample.
 
 
 ## Incorporate legacy sites
@@ -216,7 +216,7 @@ legend( "bottomleft", c("Legacy Sites", "New Sites"), pch=c(17,20), pt.cex=2,
 <img src="images/figures/image_3.png" width="70%">
 
 
-Figure 2.4: A spatially balanced design for Governor Island that incorporates legacy sites and has depth-varying inclusion probabilities (shallow sites are over-represented).
+**Figure 2.4:** A spatially balanced design for Governor Island that incorporates legacy sites and has depth-varying inclusion probabilities (shallow sites are over-represented).
 
 
 ## Case study summary
