@@ -16,18 +16,16 @@ Table 2.1 Different types of research questions (adapted from Leek and Peng, 201
 
 
 <table>
+<thead>
   <tr>
-   <td>Research Type
-   </td>
-   <td>Description
-   </td>
-   <td>Example Question
-   </td>
-   <td>Examples of adequate data sources
-   </td>
-   <td>Complexity
-   </td>
+   <td><strong>Research Type</strong></td>
+   <td><strong>Description</strong></td>
+   <td><strong>Example Question</strong></td>
+   <td><strong>Examples of adequate data sources</strong></td>
+   <td><strong>Complexity</strong></td>
   </tr>
+</thead>
+  <tbody>
   <tr>
    <td>Descriptive associations
    </td>
@@ -85,6 +83,7 @@ Table 2.1 Different types of research questions (adapted from Leek and Peng, 201
    Complex
    </td>
   </tr>
+ </tbody>
 </table>
 
 
