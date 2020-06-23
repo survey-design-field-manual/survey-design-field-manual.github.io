@@ -1,6 +1,6 @@
 ---
 permalink: /random-sampling
-title: "Random sampling"
+title: "Random Sampling"
 excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg
