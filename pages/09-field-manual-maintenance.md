@@ -13,14 +13,14 @@ The version control for Chapter 2 (survey design) is below:
 
 
 <table>
+<thead>
   <tr>
-   <td>Version Number
-   </td>
-   <td>Description
-   </td>
-   <td>Date
-   </td>
+   <td><strong>Version Number</strong></td>
+   <td><strong>Description</strong></td>
+   <td><strong>Date</strong></td>
   </tr>
+  </thead>
+  <tbody>
   <tr>
    <td>0
    </td>
@@ -45,6 +45,7 @@ The version control for Chapter 2 (survey design) is below:
    <td>May 2020
    </td>
   </tr>
+</tbody>
 </table>
 
 # Acknowledgements
