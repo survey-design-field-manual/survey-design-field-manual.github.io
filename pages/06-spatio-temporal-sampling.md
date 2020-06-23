@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /spatio-temporal-sampling
-title: "Spatio-Temporal Sampling"
+title: "Spatio-temporal Sampling"
 excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg

@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /gear-specific-considerations
-title: "Gear-Specific Considerations"
+title: "Gear-specific Considerations"
 excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg
