@@ -1,6 +1,6 @@
 ---
 permalink: /research-objectives
-title: "Reasearch Objective(s)"
+title: "Research Objective(s)"
 excerpt: "<br>"
 image:
   feature: /banners/scope_banner.jpg
